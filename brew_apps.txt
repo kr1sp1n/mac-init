@@ -1,4 +1,13 @@
 google-chrome;cask
+git
+git-flow
 wget
+curl
 nvm
 yarn
+hyper
+slack;cask
+cleanmymac;cask
+flashlight;cask
+dash;cask
+docker;cask
