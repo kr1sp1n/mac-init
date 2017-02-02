@@ -11,3 +11,9 @@ cleanmymac;cask
 flashlight;cask
 dash;cask
 docker;cask
+google-cloud-sdk;cask
+kubectl
+watch
+bettertouchtool;cask
+atom;cask
+mongohub;cask
